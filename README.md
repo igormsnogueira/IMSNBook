@@ -1,1 +1,1 @@
-Library E-Commerce Application using ASP.NET C#, including Entity Framework, Identity, and Stripe Integration. 
+Library E-Commerce Application implemented based on Multi-tier architecture using ASP.NET C#, including Entity Framework, Identity, and Stripe Integration. 
